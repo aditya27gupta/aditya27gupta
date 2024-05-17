@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-251353?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aditya27gupta)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/aditya27gupta)
-[![Go](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/aditya27gupta)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/aditya27gupta)
 
 
 #### Databases
