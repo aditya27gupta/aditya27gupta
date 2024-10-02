@@ -3,7 +3,6 @@
 #### Languages
 
 [![Python](https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white)](https://github.com/aditya27gupta)
-[![Lua](https://img.shields.io/badge/Lua-2F5F8A?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/aditya27gupta)
 [![Go](https://img.shields.io/badge/Go-2F5F8A?style=for-the-badge&logo=go&logoColor=white)](https://github.com/aditya27gupta)
 
 
@@ -34,6 +33,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya27gupta" alt="Contributions Info" />
 
 ## Connect With Me
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/daftsun/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya27gupta)
