@@ -30,4 +30,6 @@
 [![Spark](https://img.shields.io/badge/Apache_Spark-174978?style=for-the-badge&logo=apachespark&logoColor=#white)](https://github.com/aditya27gupta)
 
 ## Contributions
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya27gupta" alt="Contributions Info" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aditya27gupta&theme=github-dark-blue&mode=weekly&card_width=500" alt="Contributions Info" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya27gupta&theme=github_dark&layout=compact&card_width=500)
